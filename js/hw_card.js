@@ -12,11 +12,16 @@ export const cards = [
        image: './img/cards/loop.png',
        alt: 'loop'
     },
-
     {
        url: 'https://igorportyanko.github.io/js_functions',
        title: 'Функції',
        image: './img/cards/function.jpg',
        alt: 'function'
+    },
+    {
+       url: 'https://igorportyanko.github.io/js_object/',
+       title: 'Об`єкти',
+       image: './img/cards/object.jpg',
+       alt: 'object'
     }
 ]
