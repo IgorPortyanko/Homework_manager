@@ -23,5 +23,11 @@ export const cards = [
        title: 'Об`єкти',
        image: './img/cards/object.jpg',
        alt: 'object'
+    },
+    {
+       url: 'https://igorportyanko.github.io/hw_arrays',
+       title: 'Масиви',
+       image: './img/cards/array.jpg',
+       alt: 'array'
     }
 ]
