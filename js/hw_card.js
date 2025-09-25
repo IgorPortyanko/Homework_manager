@@ -29,7 +29,7 @@ export const cards = [
        title: 'Масиви',
        image: './img/cards/array.jpg',
        alt: 'array'
-    }
+    },
 	{
        url: 'https://igorportyanko.github.io/hw-events-js',
        title: 'Події',
