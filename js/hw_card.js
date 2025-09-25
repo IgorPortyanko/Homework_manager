@@ -30,4 +30,10 @@ export const cards = [
        image: './img/cards/array.jpg',
        alt: 'array'
     }
+	{
+       url: 'https://igorportyanko.github.io/hw-events-js',
+       title: 'Події',
+       image: './img/cards/events.png',
+       alt: 'event'
+    }
 ]
